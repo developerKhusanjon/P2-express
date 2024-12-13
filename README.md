@@ -1,2 +1,2 @@
-# p2p-express
-P2P file exchanging software
+# P2-express
+P2 file exchanging software
