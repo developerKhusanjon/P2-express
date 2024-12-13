@@ -1,2 +1,2 @@
-# pekko-typed-event-sourcing
-Pekko event sourcing example
+# P2P-express
+P2P file exchanging software
