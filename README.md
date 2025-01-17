@@ -1,2 +1,2 @@
-# P2-express
-P2 file exchanging software
+# p2-express
+p2 file exchanging software
